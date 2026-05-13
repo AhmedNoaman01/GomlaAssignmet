@@ -16,6 +16,7 @@ Dont forget to handle Excel file before use Sql Code
 | Facts | `gold.Fact_Sales`, `gold.Fact_Purchase` |
 
 ---
+<img width="918" height="727" alt="DB" src="https://github.com/user-attachments/assets/53750ff8-75a5-49e0-bc2b-9e6b01fceedc" />
 
 ## Report Pages
 
