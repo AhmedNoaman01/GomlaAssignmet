@@ -31,27 +31,6 @@ Items purchased but never sold. Ranked by capital locked. Includes `Is Deadstock
 ### 5 — Sales Tree
 Drill-down hierarchy: Department → Main Group → Sub Group → Item. Shows contribution of each level to total sales value.
 
----
-
-## Key Measures
-
-| Measure | Logic |
-|---|---|
-| `Gross Profit` | Total Sales Value − Net Purchase Value |
-| `Turnover Ratio` | Net Sales Qty ÷ Net Purchase Qty |
-| `Days of Inventory` | 335 ÷ Turnover Ratio |
-| `Is Deadstock` | Calculated column — "Deadstock" if Sales Qty = 0 or blank |
-| `Movement Category` | Fast / Medium / Slow / Deadstock based on turnover ratio |
-
----
-
-## How to Connect
-
-1. Open `Gomla_Report.pbix` in Power BI Desktop
-2. Go to **Home → Transform data → Data source settings**
-3. Update the SQL Server name to your server
-4. Database: `GOMLA`
-5. Click **Refresh**
 
 ---
 
