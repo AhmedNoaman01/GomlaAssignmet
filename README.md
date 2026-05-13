@@ -4,6 +4,9 @@
 **Period:** June 2024 – April 2025 | **Branches:** 52
 
 ---
+## Important Notes
+
+Dont forget to handle Excel file before use Sql Code
 
 ## Data Model
 
